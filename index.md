@@ -6,4 +6,6 @@ layout: home
 
 Oh Hai! You've found my Gif collection.
 
-Fork me on GitHub at [jglovier/gifs](https://github.com/jglovier/gifs)
+Fork me on GitHub at [rogierslag/gifs](https://github.com/rogierslag/gifs)
+
+Original gif repository at [jglovier/gifs](https://github.com/jglovier/gifs)
