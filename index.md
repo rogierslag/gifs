@@ -1,4 +1,5 @@
 ---
+title: Gif Collection
 layout: home
 ---
 
@@ -9,3 +10,4 @@ layout: home
 Original gif repository at [jglovier/gifs](https://github.com/jglovier/gifs)
 
 <p>Import into Gifwit with my <a href="library.gifwit">library</a>.</p>
+
